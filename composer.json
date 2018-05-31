@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "afs\\Request\\V20180112\\": "src/afs/Request/V20180112"
+            "Gutink\\Aliyun\\Afs\\Request\\V20180112\\": "src/afs/Request/V20180112"
         }
     }
 }

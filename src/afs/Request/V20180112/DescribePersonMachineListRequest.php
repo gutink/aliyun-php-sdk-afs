@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace afs\Request\V20180112;
+namespace Gutink\Aliyun\Afs\Request\V20180112;
 
 class DescribePersonMachineListRequest extends \RpcAcsRequest
 {
