@@ -19,7 +19,7 @@
  */
 namespace Gutink\Aliyun\Afs\Request\V20180112;
 
-class AuthenticateSigRequest extends \RpcAcsRequest
+class AuthenticateSigRequest extends \Gutink\Aliyun\Core\RpcAcsRequest
 {
 	function  __construct()
 	{
